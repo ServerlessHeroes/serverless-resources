@@ -5,7 +5,7 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Serverless MeetUps](https://github.com/serverless-meetups/main) - MeetUps focusing on Serverless Technologies all over the world.
 
-[Serverlessconf](http://serverlessconf.io) - The one and only conference on Serverless Technologies & Architectures (run in NYC, [Tokyo](tokyo.serverlessconf.io), and [London](london.serverlessconf.io))
+[Serverlessconf](http://serverlessconf.io) - The one and only conference on Serverless Technologies & Architectures (run in NYC, [Tokyo](http://tokyo.serverlessconf.io), and [London](http://london.serverlessconf.io))
 
 ## Services
 [AWS Lambda](https://aws.amazon.com/lambda/)
