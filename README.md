@@ -111,10 +111,12 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Pokego-Serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data
 
+[LambCI](https://github.com/lambci/lambci) - A [continuous integration system](https://medium.com/@hichaelmart/lambci-4c3e29d6599b) built on AWS Lambda
+
 ## Things built entirely on serverless tech
 [Teletext.io](https://teletext.io/) - Add [editing capabilities to your existing website](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html) without using a CMS
 
-[LambCI](https://github.com/lambci/lambci) - A [continuous integration system](https://medium.com/@hichaelmart/lambci-4c3e29d6599b) built on AWS Lambda
+
 
 
 
