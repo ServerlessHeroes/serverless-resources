@@ -87,7 +87,6 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Handling Dependencies](https://cloud.google.com/functions/docs/writing/dependencies)
 
-[HTTP Triggers](https://cloud.google.com/functions/docs/calling/http)
 
 ## WebTask.io
 [Building Serverless Apss with Webtask](https://auth0.com/blog/building-serverless-apps-with-webtask/) by Ado Kukic
@@ -108,7 +107,7 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Auth0](https://auth0.com/)
 
-[Algolia](https://www.algolia.com/) - 
+[Algolia](https://www.algolia.com/)
 
 [hook.io](https://hook.io/) - Microservice and web hook hosting
 
