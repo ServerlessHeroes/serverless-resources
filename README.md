@@ -11,13 +11,15 @@ A curated list of excellent resources on serverless technologies and architectur
 - [Serverlessconf NYC](http://nyc.serverlessconf.io) May 26-27
 
 ## Interesting Posts & Articles
+[“Serverless” is just a name. We could have called it “Jeff”](https://serverless.zone/serverless-is-just-a-name-we-could-have-called-it-jeff-1958dd4c63d7) by Paul Johnston
+
 [What's this Serverless Thing Anyway](https://read.acloud.guru/whats-this-serverless-thing-anyway-b101cb72c7e6?source=featured) by Sam Kroonenburg
+
+[WTF is Operations? #serverless](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/) by Charity Majors
 
 [Debunking Serverless Myths](https://read.acloud.guru/debunking-serverless-myths-cc329460d061?source=featured) by Peter Sbarski
 
 [A brief history of cloud compute: IAAS, PAAS, serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2?source=latest) by Sam Kroonenburg
-
-[“Serverless” is just a name. We could have called it “Jeff”](https://serverless.zone/serverless-is-just-a-name-we-could-have-called-it-jeff-1958dd4c63d7) by Paul Johnston
 
 [When not to use Serverless (Jeff)](https://medium.com/@PaulDJohnston/when-not-to-use-serverless-jeff-6d054d0e7098) by Paul Johnston
 
