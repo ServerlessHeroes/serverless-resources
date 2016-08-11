@@ -126,6 +126,8 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease (with Go support!)
 
+[Claudia](https://claudiajs.com/) - Claudia makes it easy to deploy Node.js projects to AWS Lambda
+
 [Lambada Framework](https://github.com/lambadaframework/lambadaframework) - Build serverless REST API's with JAVA. It implements the JAX-RS API and deploys your application easily to AWS Lambda and API Gateway
 
 [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda microservices
