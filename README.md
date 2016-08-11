@@ -72,6 +72,11 @@ A curated list of excellent resources on serverless technologies and architectur
 
 
 ## Azure Functions
+
+[Video introduction to Functions](https://channel9.msdn.com/Shows/Web-Hack-Wednesday/Azure-Functions)
+
+[Functions GitHub Repo](https://github.com/Azure/AzureFunctions)
+
 [Distributed Processing with Azure Functions](https://www.sumologic.com/blog-devops/distributed-processing-azure-functions/) by Andrew Male
 
 [Azure functions with Slack and OpenWeather](https://refwarlockprog.wordpress.com/2016/04/28/azure-functions-with-slack-and-openweather/) by refwarlock
@@ -79,6 +84,8 @@ A curated list of excellent resources on serverless technologies and architectur
 [Testing Azure Functions](https://azure.microsoft.com/en-us/documentation/articles/functions-test-a-function/) by Wesley McSwain
 
 [How to scale Azure Functions](https://azure.microsoft.com/en-us/documentation/articles/functions-scale/) by  Daria Grigoriu
+
+[Setting up a CI workflow](https://david-obrien.net/2016/08/azure-functions-ci/)
 
 
 ## IBM BlueMix OpenWhisk
