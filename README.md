@@ -1,5 +1,5 @@
 # Serverless Technologies & Architectures
-A curated list of excellent resources on serverless technologies and architectures. This is a community projects so if you'd like to add something please issue a PR. 
+A curated list of excellent resources on serverless technologies and architectures. This is a community project so if you'd like to add something please issue a PR. All contributions are welcomed.
 
 ## MeetUps and Conferences
 [Serverless MeetUps](https://github.com/serverless-meetups/main) - MeetUps focusing on Serverless Technologies all over the world.
