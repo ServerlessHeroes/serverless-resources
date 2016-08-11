@@ -42,6 +42,8 @@ A curated list of excellent resources on serverless technologies and architectur
 [iOS on AWS](https://acloud.guru/learn/ios-on-aws) by Ryan Kroonenburg & Peter Sbarski
 
 ## Great Blogs
+[Serverless Zone](https://serverless.zone/) - The community for all things serverless
+
 [Serverlesscode](https://serverlesscode.com/) by Ryan Brown
 
 [Paul Johnston's Blog](https://medium.com/@PaulDJohnston)
