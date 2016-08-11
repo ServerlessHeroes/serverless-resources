@@ -145,6 +145,8 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [ServerlessCalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk
 
+[Shep](https://github.com/bustlelabs/shep) - A framework for building JavaScript APIs with AWS API Gateway and Lambda
+
 ## Cool Open-Source Serverless Projects
 
 [Pokego-Serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data
