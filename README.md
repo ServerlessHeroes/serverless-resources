@@ -15,6 +15,8 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [What's this Serverless Thing Anyway](https://read.acloud.guru/whats-this-serverless-thing-anyway-b101cb72c7e6?source=featured) by Sam Kroonenburg
 
+[Serverless Architectures](http://martinfowler.com/articles/serverless.html) by Mike Roberts
+
 [WTF is Operations? #serverless](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/) by Charity Majors
 
 [Debunking Serverless Myths](https://read.acloud.guru/debunking-serverless-myths-cc329460d061?source=featured) by Peter Sbarski
@@ -24,6 +26,8 @@ A curated list of excellent resources on serverless technologies and architectur
 [When not to use Serverless (Jeff)](https://medium.com/@PaulDJohnston/when-not-to-use-serverless-jeff-6d054d0e7098) by Paul Johnston
 
 [Serverless: Volume Compute for a New Generation](http://redmonk.com/fryan/2016/04/28/serverless-volume-compute-for-a-new-generation/) by RedMonk
+
+[The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html) by Marcel Panse and Sander Nagtegaal
 
 ## Books
 [Serverless Architectures on AWS](http://book.acloud.guru) - by Peter Sbarski & Sam Kroonenburg
