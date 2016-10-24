@@ -149,6 +149,8 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Serverless Artillery](https://github.com/Nordstrom/serverless-artillery/tree/develop) - Combine serverless with artillery and you get serverless-artillery (a.k.a. slsart) for instant, cheap, and easy performance testing at scale.
 
+[discfg](https://github.com/tmaiaroto/discfg) - A serverless application configuration tool using Lambda and DynamoDB
+
 ## Cool Open-Source Serverless Projects
 
 [Pokego-Serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data
