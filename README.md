@@ -147,7 +147,7 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [Shep](https://github.com/bustlelabs/shep) - A framework for building JavaScript APIs with AWS API Gateway and Lambda
 
-[Serverless Artillery](https://github.com/Nordstrom/serverless-artillery/tree/develop) - Combine serverless with artillery and you get serverless-artillery (a.k.a. slsart) for instant, cheap, and easy performance testing at scale.
+[Serverless Artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery (a.k.a. slsart) for instant, cheap, and easy performance testing at scale.
 
 ## Cool Open-Source Serverless Projects
 
